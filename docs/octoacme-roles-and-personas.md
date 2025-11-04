@@ -1,8 +1,6 @@
 # OctoAcme Personas
 
-This document defines typical roles and responsibilities used in OctoAcme project docs and exercises.
-
-This document is regularly updated to reflect role evolution and team feedback.
+This document defines typical roles and responsibilities used in OctoAcme project docs and exercises. This document is regularly updated to reflect role evolution and team feedback.
 
 ---
 
