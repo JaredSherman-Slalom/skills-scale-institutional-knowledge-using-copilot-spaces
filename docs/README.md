@@ -73,6 +73,7 @@ Navigate to detailed guides for each phase and aspect of project management:
 
 ### Roles & Responsibilities
 - **[Roles & Personas](octoacme-roles-and-personas.md)** - Detailed definitions of responsibilities, goals, and communication patterns for each role
+- **[Cross-Role Collaboration Guide](guide-cross-role-collaboration.md)** - How different roles interact, collaborate, and make decisions together
 
 ### Project Phases
 - **[Project Initiation](octoacme-project-initiation.md)** - Guidelines for validating project ideas, creating one-pagers, and decision gates
@@ -100,6 +101,11 @@ Throughout the project lifecycle, teams create and maintain these artifacts:
 ### Review & Learning
 - **Retrospective Notes**: Learnings and action items from completed work
 - **Release Notes**: Summary of changes, migration steps, and known issues
+
+### Templates & Checklists
+- **[Role Onboarding Checklist](template-role-onboarding-checklist.md)**: Structured onboarding for all roles with role-specific guidance
+- **[Project Handoff Template](template-project-handoff.md)**: Comprehensive handoff documentation for role transitions and project transfers
+- **[Cross-Role Collaboration Guide](guide-cross-role-collaboration.md)**: Patterns and best practices for effective cross-role collaboration
 
 ## Communication Cadence
 
@@ -150,7 +156,9 @@ Follow the security incident runbook and notify Security on-call immediately.
 ### For New Team Members
 1. Start with the [Project Management Overview](octoacme-project-management-overview.md)
 2. Review [Roles & Personas](octoacme-roles-and-personas.md) to understand your responsibilities
-3. Consult phase-specific guides as you progress through projects
+3. Use the [Role Onboarding Checklist](template-role-onboarding-checklist.md) to structure your first weeks
+4. Review the [Cross-Role Collaboration Guide](guide-cross-role-collaboration.md) to understand how to work with other roles
+5. Consult phase-specific guides as you progress through projects
 
 ### For Experienced Team Members
 Use this README as a navigation hub to quickly access specific process documents, templates, and checklists relevant to your current project phase.
